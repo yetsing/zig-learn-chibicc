@@ -1,2 +1,3 @@
 # zig-learn-chibicc
-chibicc learn(rewrite) with zig
+
+[chibicc](https://github.com/rui314/chibicc) learn(rewrite) with zig
